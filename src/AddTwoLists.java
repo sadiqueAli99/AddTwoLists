@@ -1,5 +1,6 @@
 public class AddTwoLists {
     static Node head1, head2;
+    String sad;
     static class Node{
         Node next;
         int data;
